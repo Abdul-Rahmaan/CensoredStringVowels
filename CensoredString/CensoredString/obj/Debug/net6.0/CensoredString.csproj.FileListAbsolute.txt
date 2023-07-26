@@ -1,0 +1,15 @@
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\bin\Debug\net6.0\CensoredString.exe
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\bin\Debug\net6.0\CensoredString.deps.json
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\bin\Debug\net6.0\CensoredString.runtimeconfig.json
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\bin\Debug\net6.0\CensoredString.dll
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\bin\Debug\net6.0\CensoredString.pdb
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.csproj.AssemblyReference.cache
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.AssemblyInfoInputs.cache
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.AssemblyInfo.cs
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.csproj.CoreCompileInputs.cache
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.dll
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\refint\CensoredString.dll
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.pdb
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\CensoredString.genruntimeconfig.cache
+E:\leetProblems\CnsoredStringVowels\CensoredStringVowels\CensoredString\CensoredString\obj\Debug\net6.0\ref\CensoredString.dll
